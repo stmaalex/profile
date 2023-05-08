@@ -1,0 +1,73 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  background-color: #C9ADA7;
+  color: 4A4E69;
+  text-align: center;
+  padding: 25px;
+}
+
+h1, h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 35px;
+  color: #22223B;
+}
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  color: #22223B;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  background-color: #4A4E69;
+  padding: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.3s ease;
+}
+
+a:hover {
+  background-color: #22223B;
+}
+
+.card {
+  background-color: #F2E9E4;
+  padding: 50px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+  .following {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px 5px;
+    word-wrap: normal;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s ease;
+  }
+
+
+.link {
+  background-color: white;
+  padding: 50px;
+  width: 500px;
+  margin: 25px auto;
+  border-radius: 5px;
+  border: 1px solid #EAEAEA;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+}
+
+#profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
